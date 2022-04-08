@@ -5,7 +5,7 @@ Hello?
 # I'm heading 1
 ## I'm heading 11
 [Link](https://canvas.ucsd.edu/)
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpets.webmd.com%2Fcats%2Fcat-vaccines&psig=AOvVaw1rksXTt8qqHXY19VfQYxZM&ust=1649547761849000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCIDE8LXShfcCFQAAAAAdAAAAABAM)
+![Image](https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/cat_relaxing_on_patio_other/1800x1200_cat_relaxing_on_patio_other.jpg?resize=750px:*&output-quality=75)
 > BlockquoteTest
 * List 1
 * List 2
