@@ -1,3 +1,4 @@
+[Week 1&2 Lab Report](lab-report-1-week-2.html)
 *IIItalic*
 **Boooold**
 # I'm heading 1
