@@ -8,7 +8,7 @@
 ![Image](step3.png)
 * Step 4: Use scp to copy files
 ![Image](step4.png)
-* Step 5: Set up rsa key
+* Step 5: Set up ssh key
 ![Image](step5.png)
 * Step 6: Covenient way to make changes
 ![Image](step6.png)
