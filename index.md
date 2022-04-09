@@ -1,5 +1,3 @@
-This is not a file
-Hello?
 *IIItalic*
 **Boooold**
 # I'm heading 1
@@ -21,4 +19,19 @@ Horizontal rule:
 # This is a code block
 print 'hi'
 print 'bye'
+```
+---
+Here are some changes
+
+*Change* this to **Bold**
+
+[**UCSD Canvas**](https://canvas.ucsd.edu/)
+
+![Image](http://5b0988e595225.cdn.sohucs.com/images/20200406/5c0ed7cdc062478b85171e00f350ce20.jpeg)
+
+`This is a new Inline code`
+
+```
+# Another block of code
+print 'byebye'
 ```
