@@ -7,4 +7,9 @@
 ![image](https://user-images.githubusercontent.com/98358643/167337223-03276b44-698f-45f2-ac6b-349ff4088a9f.png)
 
 
-#
+# Setup Github Access from ieng6
+* Create rsa key and store the public key in Github account.
+![image](https://user-images.githubusercontent.com/98358643/167345303-54cf2677-2ef8-483c-b2e0-8ce5097b702a.png)
+* Check the private key stored in ieng6 user account.
+![image](https://user-images.githubusercontent.com/98358643/167345404-e14ea808-7482-492a-97bc-eeead7ad0667.png)
+* Running git commands on ieng6 account
