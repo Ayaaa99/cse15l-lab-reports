@@ -13,3 +13,9 @@
 * Check the private key stored in ieng6 user account.
 ![image](https://user-images.githubusercontent.com/98358643/167345404-e14ea808-7482-492a-97bc-eeead7ad0667.png)
 * Running git commands on ieng6 account
+
+
+# Copy the whole directory into ieng6
+* Use scp to copy the markdown-parser directory into ieng6 account
+![image](https://user-images.githubusercontent.com/98358643/168448572-88f1baf4-9612-483f-969d-88a7a815c050.png)
+* Log in into ieng6 account and compile and run markdown-parser codes
