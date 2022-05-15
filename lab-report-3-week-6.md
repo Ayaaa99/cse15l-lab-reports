@@ -19,3 +19,4 @@
 * Use scp to copy the markdown-parser directory into ieng6 account
 ![image](https://user-images.githubusercontent.com/98358643/168448572-88f1baf4-9612-483f-969d-88a7a815c050.png)
 * Log in into ieng6 account and compile and run markdown-parser codes
+![image](https://user-images.githubusercontent.com/98358643/168461490-76df03c7-9a06-421c-8b07-3ff8f6906c71.png)
