@@ -13,6 +13,7 @@
 * Check the private key stored in ieng6 user account.
 ![image](https://user-images.githubusercontent.com/98358643/167345404-e14ea808-7482-492a-97bc-eeead7ad0667.png)
 * Running git commands on ieng6 account
+![image](https://user-images.githubusercontent.com/98358643/168500787-eae6a7cd-bd6b-4247-a312-8fdc4a962709.png)
 
 
 # Copy the whole directory into ieng6
@@ -20,3 +21,5 @@
 ![image](https://user-images.githubusercontent.com/98358643/168448572-88f1baf4-9612-483f-969d-88a7a815c050.png)
 * Log in into ieng6 account and compile and run markdown-parser codes
 ![image](https://user-images.githubusercontent.com/98358643/168461490-76df03c7-9a06-421c-8b07-3ff8f6906c71.png)
+* Copy the directory to ieng6 account and compile and run test remotely on local computer.
+* ![image](https://user-images.githubusercontent.com/98358643/168500739-058da2df-3ae3-442a-9046-4b3436b74efd.png)
