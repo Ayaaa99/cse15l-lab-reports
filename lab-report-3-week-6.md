@@ -22,4 +22,4 @@
 * Log in into ieng6 account and compile and run markdown-parser codes
 ![image](https://user-images.githubusercontent.com/98358643/168461490-76df03c7-9a06-421c-8b07-3ff8f6906c71.png)
 * Copy the directory to ieng6 account and compile and run test remotely on local computer.
-* ![image](https://user-images.githubusercontent.com/98358643/168500739-058da2df-3ae3-442a-9046-4b3436b74efd.png)
+![image](https://user-images.githubusercontent.com/98358643/168500739-058da2df-3ae3-442a-9046-4b3436b74efd.png)
