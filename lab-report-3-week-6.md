@@ -12,8 +12,9 @@
 ![image](https://user-images.githubusercontent.com/98358643/167345303-54cf2677-2ef8-483c-b2e0-8ce5097b702a.png)
 * Check the private key stored in ieng6 user account.
 ![image](https://user-images.githubusercontent.com/98358643/167345404-e14ea808-7482-492a-97bc-eeead7ad0667.png)
-* Running git commands on ieng6 account
-![image](https://user-images.githubusercontent.com/98358643/168500787-eae6a7cd-bd6b-4247-a312-8fdc4a962709.png)
+* Make changes to file in markdown-parser on ieng6 account and push changes to github
+![image](https://user-images.githubusercontent.com/98358643/168658743-db1d9387-8d60-459e-ad30-644e0df82178.png)
+* [Link to the commit message](https://github.com/Ayaaa99/markdown-parser/commit/bef392147bde02ecf0bdfc6eadd535b09c38e2b3)
 
 
 # Copy the whole directory into ieng6
