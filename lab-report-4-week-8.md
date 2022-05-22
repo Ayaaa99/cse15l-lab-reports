@@ -15,4 +15,4 @@
 ![image](https://user-images.githubusercontent.com/98358643/169710294-88f6227f-fd64-4a03-9707-7545f102b8a4.png)
 * This is the error that appear when running the Junit test with the new test added:
 ![image](https://user-images.githubusercontent.com/98358643/169710331-b4bf37d8-a24c-48c8-a717-8f2e731e0a33.png)
-
+* To solve the problem of multiple "()" inside the link, I could add a while loop that matches the number of "(" and number of ")" and changes the index of ")" to the last ")" we found. When the number of "(" and ")" equal to each other, return the link included between the first "(" and last ")". To solve the problem of inner "[" and "]" inside the name of link, I could change the if condition for finding "](". Instead of checking whether the next character following "]" is "(", I should change it to checking whether the character in front of "(" is a "]". In this way, the code could correctly add the link to the list even if there's "[" and "]" inside the "[]".
