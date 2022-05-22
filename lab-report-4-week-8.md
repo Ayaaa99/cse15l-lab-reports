@@ -19,7 +19,7 @@
 
 
 
-# Snippet 2
+# Snippet 3
 * This markdown snippet should produce the following result:
 ![image](https://user-images.githubusercontent.com/98358643/169711572-7402e6b3-d950-4811-b28a-ff8487437f51.png)
 * This is the new test I added to MarkdownParseTest.java to test snippet 2:
