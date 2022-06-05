@@ -5,3 +5,5 @@
 [Week 5&6 Lab Report](https://ayaaa99.github.io/cse15l-lab-reports/lab-report-3-week-6.html)
 
 [Week 7&8 Lab Report](https://ayaaa99.github.io/cse15l-lab-reports/lab-report-4-week-8.html)
+
+[Week 9&10 Lab Report](https://ayaaa99.github.io/cse15l-lab-reports/lab-report-5-week-10.html)
